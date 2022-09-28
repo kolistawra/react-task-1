@@ -1,0 +1,23 @@
+{
+  "name": "react-odev-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolistawra/react-odev-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolistawra/react-odev-1/issues"
+  },
+  "homepage": "https://github.com/kolistawra/react-odev-1#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
